@@ -36,5 +36,5 @@ Graduando em Licenciatura em Matemática pelo Instituto Federal do Rio Grande do
 
 ![GitHub followers](https://img.shields.io/github/followers/RubemCabral77)
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RubemCabral77/RubemCabral77/output/snake.svg" alt="Snake animation" />
 
